@@ -1803,6 +1803,1481 @@
           ]
         }
       ]
+    },
+    {
+      "id": 3,
+      "title": "MST Technology Videos",
+      "details": [
+        {
+          "id": 30001,
+          "title": "Digital Marketing Strategies 2023",
+          "category_Id": 3,
+          "file_size": "173772",
+          "desc": "Master the latest digital marketing techniques to boost your online presence. This video covers SEO, social media marketing, content strategy, and data analytics to help you reach your target audience effectively.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Digital-Marketing-Tutorial.jpg",
+          "adVideos": [
+            {
+              "time": 20,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 45,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 80,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 15,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 25,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 30002,
+          "title": "AI in Digital Marketing",
+          "category_Id": 3,
+          "file_size": "173772",
+          "desc": "Discover how artificial intelligence is revolutionizing digital marketing. Learn about chatbots, predictive analytics, personalized content, and automated ad targeting to stay ahead in the competitive digital landscape.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://www.salesforce.com/content/dam/web/en_us/www/images/marketing-cloud/ai-in-marketing-header.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 40,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 60,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 300,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 30003,
+          "title": "Android Development Fundamentals",
+          "category_Id": 3,
+          "file_size": "173772",
+          "desc": "Begin your journey in Android app development with this comprehensive guide. Learn about activities, fragments, UI design, and the Android architecture components that form the foundation of modern app development.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://developer.android.com/static/images/social/android-developers.png",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 35,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 30004,
+          "title": "Flutter Cross-Platform Development",
+          "category_Id": 3,
+          "file_size": "173772",
+          "desc": "Explore Flutter framework for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Learn about widgets, state management, and platform integration.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/1*5-aoK8IBmXve5whBQM90GA.png",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 35,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 30005,
+          "title": "Modern ERP Solutions",
+          "category_Id": 3,
+          "file_size": "173772",
+          "desc": "Discover how modern ERP systems integrate all facets of business operations. This video explains inventory management, accounting, HR, CRM, and supply chain modules that help businesses streamline processes.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://www.selecthub.com/wp-content/uploads/2022/08/What-is-ERP.jpg",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 35,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 300,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Technologies Videos",
+      "details": [
+        {
+          "id": 40001,
+          "title": "Building Strong Channel Partnerships",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Discover how to amplify your business growth through strategic channel partnerships with Mind Spark Technologies. This video explores innovative solutions for seamless collaboration, market expansion, and operational efficiency. Learn how our robust support and integration tools can elevate your business to new heights.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1516321310766-4a4a6b2f3b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40002,
+          "title": "Mastering Digital Marketing Strategies",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Unlock the secrets to effective digital marketing with this engaging video. Learn how to captivate your audience, enhance brand visibility, and drive business growth through creative content, targeted campaigns, and data-driven strategies. Transform your online presence with Mind Spark Technologies.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1551288049-0b1a88c3a7b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40003,
+          "title": "Scaling with Channel Partnerships",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Explore the power of channel partnerships in this insightful video. Mind Spark Technologies showcases how strategic alliances can drive growth, streamline operations, and enhance market competitiveness with cutting-edge integration tools and dedicated support.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40004,
+          "title": "Boosting Brands with Digital Marketing",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Dive into the world of digital marketing with this dynamic video. Discover proven techniques to attract customers, elevate your brand, and achieve business success. Mind Spark Technologies shares creative strategies and tools to revolutionize your digital marketing approach.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2b6e3c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40005,
+          "title": "Channel Partnerships for Business Growth",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "This video highlights how Mind Spark Technologies empowers businesses through channel partnerships. Learn about smart solutions that foster collaboration, enhance market reach, and ensure seamless integration for sustained growth and success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1516321497487-7e695d3cb7e1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40006,
+          "title": "Digital Marketing Success Blueprint",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Get ready to supercharge your digital marketing efforts with this comprehensive video. Mind Spark Technologies reveals actionable strategies to engage customers, build your brand, and achieve measurable results in the digital landscape.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab8276846?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40007,
+          "title": "Streamlining Operations with ERP",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Unlock the potential of ERP integration with this informative video. Learn how Mind Spark Technologies' ERP solutions optimize workflows, provide real-time insights, and reduce operational costs, empowering your business to stay competitive and efficient.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40008,
+          "title": "Empowering Growth with Channel Partners",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Join Mind Spark Technologies in this video to learn how channel partnerships can transform your business. Discover tools and strategies for effective collaboration, market expansion, and achieving long-term success with reliable support.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40009,
+          "title": "Digital Marketing for the Future",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Stay ahead in the digital world with this video from Mind Spark Technologies. Explore innovative digital marketing techniques to attract and retain customers, boost brand loyalty, and drive sustainable business growth.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1516321310766-4a4a6b2f3b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40010,
+          "title": "Optimizing Business with ERP Solutions",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "This video showcases how ERP solutions from Mind Spark Technologies can revolutionize your business operations. Learn about real-time data access, streamlined processes, and cost-saving strategies that drive efficiency and competitiveness.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1551288049-0b1a88c3a7b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40011,
+          "title": "Channel Partnerships: The Path to Success",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Learn how Mind Spark Technologies leverages channel partnerships to drive business success. This video covers strategies for effective collaboration, market expansion, and utilizing advanced integration tools for sustained growth.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 40012,
+          "title": "Digital Marketing Mastery",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Transform your digital marketing game with this video from Mind Spark Technologies. Learn cutting-edge techniques to engage audiences, boost brand recognition, and drive business growth through strategic and creative digital campaigns.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2b6e3c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 4013,
+          "title": "Building Apps with Android and Flutter",
+          "category_Id": 4,
+          "file_size": "173772",
+          "desc": "Discover the power of Android and Flutter development in this engaging video. Learn how Mind Spark Technologies creates seamless, high-performance mobile apps that enhance user experiences and drive business success through innovative development techniques.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1512941937669-6d7c7032e3ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tutorial Videos",
+      "details": [
+        {
+          "id": 50001,
+          "title": "Getting Started with Channel Partnerships",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "This tutorial guides you through the essentials of building successful channel partnerships with Mind Spark Technologies. Learn step-by-step how to leverage smart solutions, integrate seamlessly with partners, and drive business growth through strategic collaborations.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1516321310766-4a4a6b2f3b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50002,
+          "title": "Digital Marketing 101: Building Your Strategy",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Kickstart your digital marketing journey with this beginner-friendly tutorial. Learn how to craft effective strategies, create engaging content, and attract more customers to grow your brand with Mind Spark Technologies' expert guidance.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1551288049-0b1a88c3a7b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50003,
+          "title": "Advanced Channel Partnership Techniques",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Take your channel partnerships to the next level with this advanced tutorial. Discover expert tips from Mind Spark Technologies on optimizing collaboration, integrating systems, and staying competitive in the market for sustained business success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50004,
+          "title": "Advanced Digital Marketing Tactics",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Elevate your digital marketing skills with this advanced tutorial. Mind Spark Technologies walks you through sophisticated strategies to boost brand visibility, engage audiences, and drive measurable business growth through targeted campaigns.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2b6e3c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50005,
+          "title": "Channel Partnerships: Practical Steps",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "This practical tutorial from Mind Spark Technologies provides actionable steps to establish and manage channel partnerships. Learn how to integrate systems, collaborate effectively, and expand your market presence for long-term business growth.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1516321497487-7e695d3cb7e1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50006,
+          "title": "Digital Marketing: Content Creation Guide",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Learn how to create compelling content for digital marketing in this tutorial. Mind Spark Technologies shares practical tips to craft engaging campaigns, optimize content for audiences, and drive brand growth with effective strategies.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab8276846?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50007,
+          "title": "ERP Integration: A Step-by-Step Guide",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Master ERP integration with this step-by-step tutorial. Mind Spark Technologies demonstrates how to streamline operations, access real-time data, and reduce costs through effective ERP implementation for enhanced business efficiency.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50008,
+          "title": "Optimizing Channel Partnerships",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "This tutorial offers practical insights into optimizing channel partnerships. Learn from Mind Spark Technologies how to enhance collaboration, integrate advanced tools, and drive market success with strategic partner management.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50009,
+          "title": "Digital Marketing: Campaign Optimization",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Optimize your digital marketing campaigns with this in-depth tutorial. Mind Spark Technologies provides expert advice on refining strategies, targeting audiences, and maximizing ROI to ensure your brand thrives in the digital space.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1516321310766-4a4a6b2f3b9b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50010,
+          "title": "Implementing ERP for Business Efficiency",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "This tutorial walks you through implementing ERP systems with Mind Spark Technologies. Learn how to streamline workflows, leverage real-time data, and reduce costs to transform your business operations for maximum efficiency.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1551288049-0b1a88c3a7b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50011,
+          "title": "Scaling Businesses with Channel Partnerships",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Learn how to scale your business through channel partnerships in this tutorial. Mind Spark Technologies provides practical guidance on building strong alliances, integrating systems, and achieving market success with robust partner support.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Channel-Partner.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50012,
+          "title": "Digital Marketing: Analytics and Insights",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Dive into the world of digital marketing analytics with this tutorial. Mind Spark Technologies teaches you how to track campaign performance, gain actionable insights, and optimize strategies to drive brand growth and customer engagement.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Digital-Marketing.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1522202176988-66273c2b6e3c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        },
+        {
+          "id": 50013,
+          "title": "Developing Apps with Android and Flutter",
+          "category_Id": 5,
+          "file_size": "173772",
+          "desc": "Get started with Android and Flutter development in this hands-on tutorial. Mind Spark Technologies guides you through building high-performance mobile apps, leveraging Flutter’s capabilities to create seamless user experiences and drive business success.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/ERP-SOFTWARE.mp4",
+          "thumbnail": "https://images.unsplash.com/photo-1512941937669-6d7c7032e3ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+          "adVideos": [
+            {
+              "time": 10,
+              "url": "https://media.istockphoto.com/id/2177501330/video/happy-diwali-festival-animation-with-greeting-and-lamps-post.mp4?s=mp4-640x640-is&k=20&c=fPrdezaP9ZtCmmocrDjnj-idSG9wcihnwMjv0_ilw5w="
+            },
+            {
+              "time": 30,
+              "url": "https://media.istockphoto.com/id/986155074/video/female-host-talking-about-the-cosmetic-line-being-presented-in-her-tv-show.mp4?s=mp4-640x640-is&k=20&c=C2P7t-r-W20VgygJaDtPxEke8aVRVjFojCK0x45QDcc="
+            },
+            {
+              "time": 50,
+              "url": "https://media.istockphoto.com/id/1138989594/video/ld-printed-paper-travelling-across-the-rollers-of-the-printing-press.mp4?s=mp4-640x640-is&k=20&c=XD24xFl4YpC_cO5Jz6H54KppbKYrG8VgJvjdae9NBzc="
+            }
+          ],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "www.mindsparktechnologies.com"
+            },
+            {
+              "time": 30,
+              "url": "www.mindsparktechnologies.com"
+            }
+          ],
+          "bannerAds": [
+            {
+              "time": 20,
+              "url": "https://i.pinimg.com/originals/c9/e1/c6/c9e1c63a11edd6c12ad7576862e41d74.gif"
+            },
+            {
+              "time": 40,
+              "url": "https://i.pinimg.com/originals/63/39/65/6339654cda9f0ce4a744d67d299abd81.gif"
+            },
+            {
+              "time": 120,
+              "url": "https://i.pinimg.com/originals/18/2c/c3/182cc3dade6e39dea7b7d1a60365b52c.gif"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -5,7 +5,7 @@
       "title": "MST Videos",
       "details": [
         {
-          "id": 001,
+          "id": 1,
           "title": "Ooty Gymkhana",
           "category_Id": 0,
           "file_size": "36147",
@@ -27,7 +27,7 @@
           "bannerAds": []
         },
         {
-          "id": 002,
+          "id": 2,
           "title": "Jakarta Murugan Temple",
           "category_Id": 0,
           "file_size": "72749",
@@ -45,7 +45,7 @@
           "bannerAds": []
         },
         {
-          "id": 003,
+          "id": 3,
           "title": "MST Launch Video",
           "category_Id": 0,
           "file_size": "183296",
@@ -67,20 +67,20 @@
           "bannerAds": []
         },
         {
-          "id": 004,
+          "id": 4,
           "title": "M CRM",
           "category_Id": 0,
           "file_size": "57914",
           "playTime": "2:12",
           "desc": "MCRM by Mind Spark Technologies is an efficient CRM solution, streamlining customer relations and boosting business growth",
           "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/What-is-MCRM.mp4",
-          "thumbnail": "https://cdn.prod.website-files.com/6360dc4d3abe634a7570bbf9/65e9ec90e206831705a6e6b6_Why%20You%20Should%20Ignore%20Fads%20And%20Embrace%20Evidence%20Based%20Marketing.jpg",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/M-CRM-Video-Thumbnail.png",
           "adVideos": [],
           "qrAds": [],
           "bannerAds": []
         },
         {
-          "id": 005,
+          "id": 5,
           "title": "M Lnk",
           "category_Id": 0,
           "file_size": "8079",
@@ -98,7 +98,7 @@
           "bannerAds": []
         },
         {
-          "id": 006,
+          "id": 6,
           "title": "M Association",
           "category_Id": 0,
           "file_size": "27725",
@@ -111,14 +111,14 @@
           "bannerAds": []
         },
         {
-          "id": 007,
+          "id": 7,
           "title": "M AI",
           "category_Id": 0,
           "file_size": "27725",
           "playTime": "1:29",
           "desc": "M Lnk by Mind Spark Technologies is a powerful URL shortener, offering easy link management, sharing, and tracking for enhanced online engagement.",
           "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/M-ASSOCIATION-Spec-Video.mp4",
-          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/MAssociation-Video-Thumbnail.png",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/M-AI-Thumbnail.png",
           "adVideos": [],
           "qrAds": [],
           "bannerAds": []

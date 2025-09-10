@@ -1,0 +1,129 @@
+{
+  "result": [
+    {
+      "id": 0,
+      "title": "MST Videos",
+      "details": [
+        {
+          "id": 1,
+          "title": "Ooty Gymkhana",
+          "category_Id": 0,
+          "file_size": "36147",
+          "playTime": "1:14",
+          "desc": "Check out this video for an exciting tour of OotyGymkhana’s site, showcasing its top features and what makes it truly unique!",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/OGC-Website-Overview.mp4",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/OGC-Video-Thumbnail.png",
+          "adVideos": [],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "https://mlnks.in/MST/OGC"
+            },
+            {
+              "time": 25,
+              "url": "https://mlnks.in/MST/OGC"
+            }
+          ],
+          "bannerAds": []
+        },
+        {
+          "id": 2,
+          "title": "Jakarta Murugan Temple",
+          "category_Id": 0,
+          "file_size": "72749",
+          "playTime": "1:36",
+          "desc": "The Jakarta Murugan Temple is a vibrant Hindu temple in Indonesia, dedicated to Lord Murugan, featuring colorful rituals",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/JKT-Website-Video.mp4",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/JKT-Video-Thumbnail.png",
+          "adVideos": [],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "https://mlnks.in/MST/JMT"
+            }
+          ],
+          "bannerAds": []
+        },
+        {
+          "id": 3,
+          "title": "MST Launch Video",
+          "category_Id": 0,
+          "file_size": "183296",
+          "playTime": "1:37",
+          "desc": "Introducing Mind Spark Technologies: Innovating solutions for the future with cutting-edge technology and expert services.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/Official-Site-launching-Video.mp4",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/Rebranding-Video-Thumbnail.png",
+          "adVideos": [],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "https://mlnks.in/MST/MindSpark"
+            },
+            {
+              "time": 50,
+              "url": "https://mlnks.in/MST/MindSpark"
+            }
+          ],
+          "bannerAds": []
+        },
+        {
+          "id": 4,
+          "title": "M CRM",
+          "category_Id": 0,
+          "file_size": "57914",
+          "playTime": "2:12",
+          "desc": "MCRM by Mind Spark Technologies is an efficient CRM solution, streamlining customer relations and boosting business growth",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/What-is-MCRM.mp4",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/M-CRM-Video-Thumbnail.png",
+          "adVideos": [],
+          "qrAds": [],
+          "bannerAds": []
+        },
+        {
+          "id": 5,
+          "title": "M Lnk",
+          "category_Id": 0,
+          "file_size": "8079",
+          "playTime": "0:28",
+          "desc": "M Lnk by Mind Spark Technologies is a reliable URL shortener, simplifying links for easy sharing and tracking.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/M-lnks-video.mp4",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/Mlinks-Video-Thumbnail.png",
+          "adVideos": [],
+          "qrAds": [
+            {
+              "time": 5,
+              "url": "https://mlnks.in"
+            }
+          ],
+          "bannerAds": []
+        },
+        {
+          "id": 6,
+          "title": "M Association",
+          "category_Id": 0,
+          "file_size": "27725",
+          "playTime": "1:29",
+          "desc": "M Association by Mind Spark Technologies is a platform that connects professionals, promoting collaboration, networking opportunities, and fostering business growth across industries.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/M-ASSOCIATION-Spec-Video.mp4",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/MAssociation-Video-Thumbnail.png",
+          "adVideos": [],
+          "qrAds": [],
+          "bannerAds": []
+        },
+        {
+          "id": 7,
+          "title": "M AI",
+          "category_Id": 0,
+          "file_size": "27725",
+          "playTime": "1:29",
+          "desc": "M Lnk by Mind Spark Technologies is a powerful URL shortener, offering easy link management, sharing, and tracking for enhanced online engagement.",
+          "videoUrl": "https://demo.massociation.mindsparktechnologies.com/tv_application/M-ASSOCIATION-Spec-Video.mp4",
+          "thumbnail": "https://demo.massociation.mindsparktechnologies.com/tv_application/thumbnail/M-AI-Thumbnail.png",
+          "adVideos": [],
+          "qrAds": [],
+          "bannerAds": []
+        }
+      ]
+    }
+  ]
+}
